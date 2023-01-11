@@ -1,0 +1,4 @@
+# |M| = 5 -- col0: # POIs per COI - col1: exe time Amsterdam - col2: exe time Oslo - col3: exe time Berlin
+5 0.016 0.030 0.08
+25 0.026 0.043 0.103
+50 0.036 0.065 0.112

@@ -1,0 +1,9 @@
+# col0: length COI sequence - col1: Baseline - col2: CSR_PQ - col3: CSR_Slice - col4: CR_Slice_PRE - col5: CR_Slice_PAR - col6: CR_Slice_PAR_PRE
+1 0.018 - 0.007 - 0.006 -
+2 0.11 - 0.053 - 0.032 -
+3 0.669 - 0.243 - 0.062 -
+4 2.38 - 0.628 - 0.176 -
+5 8.50 - 1.5315 - 0.435 -
+6 - - - - - -
+7 - - - - - -
+8 - - - - - -

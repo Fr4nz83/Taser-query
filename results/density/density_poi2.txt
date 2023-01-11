@@ -1,0 +1,5 @@
+# |M| = 8 -- col0: density POIs - col1: exe time Amsterdam - col2: exe time Oslo - col3: exe time Berlin
+0.1 0.024 0.038 0.088
+0.25 0.138 0.133 0.188
+0.5 0.356 0.55 0.265
+1 2.00 1.63 0.311
