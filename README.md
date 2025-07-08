@@ -23,7 +23,7 @@ To compile the code, simply execute ```make all``` within the project's root fol
 
 ## Datasets
 
-You can find the datasets used in the paper in the ```datasets.zip``` file within the [```datasets```](https://github.com/Fr4nz83/Taser-query/tree/main/datasets) folder. Just unzip the archive there. In it, you will find the various versions of the datasets of the four cities considered in the paper, namely: Amsterdam, Berlin, Modena, and Oslo.
+You can find the datasets used in the paper in the [```datasets```](https://github.com/Fr4nz83/Taser-query/tree/main/datasets) folder. In it, you will find the various versions of the datasets of the four cities considered in the paper, namely: Amsterdam, Berlin, Modena, and Oslo.
 
 
 ## Execution example
