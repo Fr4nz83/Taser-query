@@ -1,6 +1,6 @@
 # Trade-off aware sequenced routing queries (or OSR queries when pois are not free)
 
-This repository contains the code behind the paper *Trade-off aware sequenced routing queries (or OSR queries when pois are not free)*, by Francesco Lettich, Mario A. Nascimento, and Samiul Anwar. All authors were affiliated with the University of Alberta at the time of writing.
+This repository contains the code behind the paper *Trade-off aware sequenced routing queries (or OSR queries when pois are not free)*, by Francesco Lettich, Mario A. Nascimento, and Samiul Anwar. All authors were affiliated with the [University of Alberta's Department of Computing Science](https://www.ualberta.ca/en/computing-science/index.html) at the time of writing.
 
 The paper was accepted and presented at the [21st IEEE International Conference on Mobile Data Management (MDM 2020)](https://mdmconferences.org/mdm2020/).
 
