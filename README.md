@@ -31,12 +31,12 @@ You can find the datasets used in the paper in the [```datasets```](https://gith
 Please use the ```help``` option when executing the application's binary to see all the possible parameters that you can pass to the application. The application have two different modalities:
 
 - Compute TASeR queries: this requires to pass several parameters, i.e.,
-  - the files of the vertices and edges of a road network (see the -v and -e parameters);
-  - the POIs of COIs of choice (see the -p parameters);
-  - the approach used to compute the queries (see the -a parameter)
-  - file containing the precoumpted distances between POIs of COIs to be used to speed up the queries' computation (see the -l parameter)
-  - the length of the COI sequences of the TASeR queries (see the -m parameter)
-  - the number of repetitions (see the -r parameter)
+  - the files of the vertices and edges of a road network (see the ```-v``` and ```-e``` parameters);
+  - the POIs of COIs of choice (see the ```-p``` parameters);
+  - the approach used to compute the queries (see the ```-a``` parameter)
+  - file containing the precoumpted distances between POIs of COIs to be used to speed up the queries' computation (see the ```-l``` parameter)
+  - the length of the COI sequences of the TASeR queries (see the ```-m``` parameter)
+  - the number of repetitions (see the ```-r``` parameter)
     
 - Precompute distances between POIs of COIs: in this mode, which is triggered when using the ```precomputeTD``` parameter, the application takes as input the vertices and edges of a road network, plus the POIs of the COIs of choice, and precompute the distances between said POIs over the given road network.
 
