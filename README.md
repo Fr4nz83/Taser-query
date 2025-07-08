@@ -21,6 +21,11 @@ In order to correctly compile and execute the application, the following shared 
 To compile the code, simply execute ```make all``` within the project's root folder.
 
 
+## Datasets
+
+You can find the datasets used in the paper in the ```datasets.zip``` file within the [```datasets```](https://github.com/Fr4nz83/Taser-query/tree/main/datasets) folder. Just unzip the archive there. In it, you will find the datasets of the four cities considered in the paper, namely, Amsterdam, Berlin, Modena, and Oslo.
+
+
 ## Execution example
 
 Please use the ```help``` option when executing the application binary to see all the possible parameters that you can pass to the application. The application have two different modalities:
