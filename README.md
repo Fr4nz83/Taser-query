@@ -1,8 +1,8 @@
 # Trade-off aware sequenced routing queries (or OSR queries when pois are not free)
 
-This repository contains the code behind the paper *Trade-off aware sequenced routing queries (or OSR queries when pois are not free)*, by Francesco Lettich, Mario A. Nascimento, and Samiul Anwar; all the authors were working at the University of Alberta when working on this paper.
+This repository contains the code behind the paper *Trade-off aware sequenced routing queries (or OSR queries when pois are not free)*, by Francesco Lettich, Mario A. Nascimento, and Samiul Anwar. All authors were affiliated with the University of Alberta at the time of writing.
 
-The paper has been accepted and presented at the [21st IEEE International Conference on Mobile Data Management (MDM 2020)](https://mdmconferences.org/mdm2020/).
+The paper was accepted and presented at the [21st IEEE International Conference on Mobile Data Management (MDM 2020)](https://mdmconferences.org/mdm2020/).
 
 
 ## How to compile the code
@@ -40,7 +40,7 @@ Please use the ```help``` option when executing the application binary to see al
     
 - Precompute distances between POIs of COIs: in this mode, which is triggered when using the ```precomputeTD``` parameter, the application takes as input the vertices and edges of a road network, plus the POIs of the COIs of choice, and precompute the distances between said POIs over the given road network.
 
-Overall, have a look at the [```main```](https://github.com/Fr4nz83/Taser-query/blob/main/src/main.cpp) of our application for more information. Feel also free to reach out if you have any doubt or need clarifications.
+Overall, have a look at the [```main```](https://github.com/Fr4nz83/Taser-query/blob/main/src/main.cpp) of our application for more information. Feel free to reach out if you have any question or need further clarifications.
 
 Below is an example of how to execute our application to compute TASeR queries. 
 
