@@ -33,7 +33,9 @@ Please use the ```help``` option when executing the application binary to see al
   - the length of the COI sequences of the TASeR queries (see the -m parameter)
   - the number of repetitions (see the -r parameter)
     
-- Precompute distances between POIs of COIs: in this mode, which is triggered when using the `````` parameter, the application takes as input the vertices and edges of a road network, plus the POIs of COIs of choice, and precompute the distances between the POIs over the road netork.
+- Precompute distances between POIs of COIs: in this mode, which is triggered when using the ```precomputeTD``` parameter, the application takes as input the vertices and edges of a road network, plus the POIs of the COIs of choice, and precompute the distances between said POIs over the given road network.
+
+Overall, have a look at the [```main```](https://github.com/Fr4nz83/Taser-query/blob/main/src/main.cpp) of our application for more information. Feel also free to reach out if you have any doubt or need clarifications.
 
 Below is an example of how to execute our application to compute TASeR queries. 
 
