@@ -28,7 +28,7 @@ You can find the datasets used in the paper in the ```datasets.zip``` file withi
 
 ## Execution example
 
-Please use the ```help``` option when executing the application binary to see all the possible parameters that you can pass to the application. The application have two different modalities:
+Please use the ```help``` option when executing the application's binary to see all the possible parameters that you can pass to the application. The application have two different modalities:
 
 - Compute TASeR queries: this requires to pass several parameters, i.e.,
   - the files of the vertices and edges of a road network (see the -v and -e parameters);
@@ -40,7 +40,7 @@ Please use the ```help``` option when executing the application binary to see al
     
 - Precompute distances between POIs of COIs: in this mode, which is triggered when using the ```precomputeTD``` parameter, the application takes as input the vertices and edges of a road network, plus the POIs of the COIs of choice, and precompute the distances between said POIs over the given road network.
 
-Overall, have a look at the [```main```](https://github.com/Fr4nz83/Taser-query/blob/main/src/main.cpp) of our application for more information. Feel free to reach out if you have any question or need further clarifications.
+Overall, have a look at our application's [```main.cpp```](https://github.com/Fr4nz83/Taser-query/blob/main/src/main.cpp) for more information. Feel free to reach out if you have any question or need further clarifications.
 
 Below is an example of how to execute our application to compute TASeR queries. 
 
