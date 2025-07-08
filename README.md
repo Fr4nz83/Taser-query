@@ -13,7 +13,7 @@ In order to correctly compile and execute the application, the following shared 
 - Boost
 - [Intel TBB](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onetbb.html)
 
-  We have also included the following libraries under the ```lib``` folder, which are also required to compile the code:
+We have also included the following libraries under the ```lib``` folder, which are also required to compile the code:
   
 - [GeographicLib](https://geographiclib.sourceforge.io/)
 - [Lemon Graph Library](https://en.wikipedia.org/wiki/LEMON_(C%2B%2B_library))
